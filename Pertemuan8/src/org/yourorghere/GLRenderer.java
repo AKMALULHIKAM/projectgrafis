@@ -1,4 +1,3 @@
-
 package org.yourorghere;
 
 import javax.media.opengl.GL;
